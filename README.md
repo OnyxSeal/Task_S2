@@ -1,2 +1,2 @@
-# Task_S2
+# Task_Season_2
 Aku aku dan aku
