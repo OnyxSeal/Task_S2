@@ -10,7 +10,11 @@ void note(string note="Note : "){
 const int MAX_MAHASISWA = 20;
 
 struct Nilai {
-    double abs, tugas, uts, uas, nilaiAkhir;
+    double abs, 
+    double tugas; 
+    double uts; 
+    double uas; 
+    double nilaiAkhir;
     char nilaiHuruf;
 };
 
